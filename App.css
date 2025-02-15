@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+}
+
+section#about {
+  background-color: #f4f4f4;
+}
+
+section#projects {
+  background-color: hsl(0, 0%, 87%);
+}
+
+section#contact {
+  background-color: #f4f4f4;
+}
